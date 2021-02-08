@@ -1,0 +1,6 @@
+[submodule "BiteGrADS"]
+	path = BiteGrADS
+	url = git@github.com:Mo-Dabao/BiteGrADS.git
+[submodule "BiteFengyun"]
+	path = BiteFengyun
+	url = git@github.com:Mo-Dabao/BiteFengyun.git
